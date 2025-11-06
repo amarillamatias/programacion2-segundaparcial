@@ -1,0 +1,3 @@
+com.tuapp.programacion2.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

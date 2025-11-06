@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Programacion2</string>
+    <string name="btn_client_form">Formulario Cliente + 3 Fotos</string>
+    <string name="btn_multi_upload">Carga múltiple (ZIP)</string>
+</resources>

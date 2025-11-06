@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.tuapp.programacion2.app-merged_res-37:/xml_file_paths.xml.flat",
+        "source": "com.tuapp.programacion2.app-main-39:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.tuapp.programacion2.app-merged_res-37:/layout_activity_client_form.xml.flat",
+        "source": "com.tuapp.programacion2.app-main-39:/layout/activity_client_form.xml"
+    },
+    {
+        "merged": "com.tuapp.programacion2.app-merged_res-37:/layout_activity_multi_upload.xml.flat",
+        "source": "com.tuapp.programacion2.app-main-39:/layout/activity_multi_upload.xml"
+    },
+    {
+        "merged": "com.tuapp.programacion2.app-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "com.tuapp.programacion2.app-main-39:/layout/activity_main.xml"
+    }
+]

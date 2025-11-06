@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color white
+id btnClientForm
+id btnComprimirSubir
+id btnEnviar
+id btnFoto1
+id btnFoto2
+id btnFoto3
+id btnMultiUpload
+id btnSeleccionar
+id etCi
+id etCiZip
+id etDireccion
+id etNombre
+id etTelefono
+layout activity_client_form
+layout activity_main
+layout activity_multi_upload
+string app_name
+string btn_client_form
+string btn_multi_upload
+style Theme.Programacion2
+xml file_paths

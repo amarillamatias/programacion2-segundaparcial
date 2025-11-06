@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.tuapp.programacion2.app-mergeDebugResources-36:/layout/activity_multi_upload.xml",
+        "source": "com.tuapp.programacion2.app-main-39:/layout/activity_multi_upload.xml"
+    },
+    {
+        "merged": "com.tuapp.programacion2.app-mergeDebugResources-36:/layout/activity_client_form.xml",
+        "source": "com.tuapp.programacion2.app-main-39:/layout/activity_client_form.xml"
+    },
+    {
+        "merged": "com.tuapp.programacion2.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "com.tuapp.programacion2.app-main-39:/layout/activity_main.xml"
+    }
+]
